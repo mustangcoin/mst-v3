@@ -43,6 +43,7 @@
 ## Wallets:
 
 - http://mustangcoin.xyz/#services
+- https://github.com/mustangcoin/mst-v3/releases
 
 ## Shop:
 
